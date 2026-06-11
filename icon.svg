@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0f0f0f"/>
+  <rect x="80" y="160" width="160" height="160" rx="24" fill="#1D9E75"/>
+  <rect x="272" y="160" width="160" height="160" rx="24" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+  <text x="256" y="420" font-family="-apple-system,sans-serif" font-size="72" font-weight="700" fill="#f0ede8" text-anchor="middle">OS</text>
+</svg>
